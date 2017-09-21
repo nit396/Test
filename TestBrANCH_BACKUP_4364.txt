@@ -1,6 +1,0 @@
-<<<<<<< HEAD
-TMA Solutions
-
-=======
-Vo Trong Nghia
->>>>>>> testmerge
